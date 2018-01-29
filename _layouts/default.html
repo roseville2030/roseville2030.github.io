@@ -27,10 +27,10 @@
         -->
 
         <span id="logo"></span>
+        <!-- Disable GitHub repo link, logo
 
-        <!--Disable GitHub repo link
         <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
-        End disable GitHub repo link-->
+        End disable GitHub repo link, logo -->
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -44,9 +44,9 @@
 
     <div class="wrapper">
       <nav>
-          <!-- Add club logo -->
-          <img src="{{ '/assets/images/2030-logo.png' | relative_url }}" alt="Club Logo" style="max-width:100%;">
         <ul></ul>
+        <!-- Add club logo -->
+        <img src="{{ '/assets/images/2030-logo.png' | relative_url }}" alt="Club Logo" style="max-width:100%;">
       </nav>
       <section>
         {{ content }}
