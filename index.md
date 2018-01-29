@@ -60,10 +60,8 @@ How to get in touch with the club:
 
 ## Mailing Address
 
-Active 20-30 Club #36
-
-PO Box 111
-
+Active 20-30 Club #36  
+PO Box 111  
 Roseville, CA 95678
 
 ## Voice Mailbox
