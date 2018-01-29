@@ -22,15 +22,9 @@
       </header>
 
       <div id="banner">
-        <!-- Example button
-        <a href="https://google.com" class="button"><strong>Google</strong></a>
-        -->
-
         <span id="logo"></span>
-        <!-- Disable GitHub repo link, logo
 
         <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
-        End disable GitHub repo link, logo -->
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -45,8 +39,6 @@
     <div class="wrapper">
       <nav>
         <ul></ul>
-        <!-- Add club logo -->
-        <img src="{{ '/assets/images/2030-logo.png' | relative_url }}" alt="Club Logo" style="max-width:100%;">
       </nav>
       <section>
         {{ content }}
@@ -57,6 +49,8 @@
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+        <!-- Add club logo -->
+        <img src="{{ '/assets/images/2030-logo.png' | relative_url }}" alt="Club Logo" style="max-width:50%;">
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
