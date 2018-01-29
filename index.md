@@ -4,11 +4,12 @@
 
 # Upcoming Events
 
-+ **The 23rd Annual Active 20-30 Crab & Shrimp Feed**
-  - March 3, 2018
-  - McBean Pavilion, Lincoln, CA
-  - Doors open, drinks served at 6pm, dinner at 7pm
-  - [Get tickets here!](https://crabfeed2018.brownpapertickets.com)
+**The 23rd Annual Active 20-30 Crab & Shrimp Feed**
+
+* March 3, 2018
+* McBean Pavilion, Lincoln, CA
+* Doors open, drinks served at 6pm, dinner at 7pm
+* [Get tickets here!](https://crabfeed2018.brownpapertickets.com)
 
 # About Us
 
@@ -31,9 +32,9 @@ We are:
 
 # Meetings
 
-We meet the Second and Fourth Thursday of each month at 7pm at Strikes
-Unlimited in Rocklin, CA. Find us in the banquet room on the left side of
-Halftime Bar & Grill.
+We meet the **Second and Fourth Thursday of each month at 7pm** at [Strikes
+Unlimited in Rocklin, CA](https://www.google.com/maps/place/5681+Lonetree+Blvd,+Rocklin,+CA+95765/).
+Find us in the banquet room on the left side of Halftime Bar & Grill.
 
 If you are interested in joining the club, the best way to get started is to
 attend a meeting. Guests are always welcomed with a free beverage of their
@@ -42,11 +43,15 @@ contact us using the links below.
 
 # Contact Us
 
-## Current Officers
+## Officers
 
-* President: Cyn Martinez
-* Vice President: Kevin Worth
-* Board Members: Jason Walley, Evan Walker, Joseph Youngblood
+July 2017 - June 2018 term
+
+| Position | Name(s) |
+| -------- | ------- |
+| President | Cyn Martinez |
+| Vice President | Kevin Worth |
+| Board Members | Jason Walley, Evan Walker, Joseph Youngblood |
 
 ## General Email
 
@@ -54,9 +59,9 @@ contact us using the links below.
 
 ## Mailing Address
 
-Active 20-30 Club #36
-PO Box 111
-Roseville, CA  95678
+    Active 20-30 Club #36
+    PO Box 111
+    Roseville, CA  95678
 
 ## Voice Mailbox
 
@@ -68,9 +73,11 @@ Roseville, CA  95678
 
 ## Tax Info
 
-A 501(c)(3) Charitable Organization
+Active 20-30 Club #36 is a 501(c)(3) Charitable Organization, meaning your
+generous donation(s) to the club may be tax-deductible (see your financial
+advisor).
 
-Tax ID 20-3909989
+**Tax ID 20-3909989**
 
 # More info
 
@@ -141,8 +148,8 @@ Host Club to be donated back to their community.
 
 At most meetings we fine our Members for anything from not wearing your pin and
 badge to getting up in the middle of the meeting to wearing a green shirt. All
-fines are meant in fun. All fine money is used to purchase a beverage for
-prospective members' first visits.
+fines are meant in fun. Fine money is used to purchase beverages for prospective
+members' first visits.
 
 ## Benefits Of Membership
 
