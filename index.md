@@ -1,4 +1,6 @@
-> Sneak peek! This page is currently under development. See
+> Sneak peek! This page is currently under development.
+> 
+> See
 > [rose-2030.org](https://rose-2030.org) for our current website and info.
 
 # About Us
