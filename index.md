@@ -56,7 +56,7 @@ Roseville, CA  95678
 
 ## Facebook
 
-http://www.facebook.com/roseville2030
+[facebook.com/roseville2030](https://www.facebook.com/roseville2030)
 
 ## Tax Info
 
