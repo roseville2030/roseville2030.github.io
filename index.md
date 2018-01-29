@@ -1,4 +1,6 @@
-# Active 20-30 Club of Roseville / South Placer #36
+---
+title: Active 20-30 Club of Roseville / South Placer #36
+---
 
 > Sneak peek! This page is currently under development. See
 > [rose-2030.org](https://rose-2030.org) for our current website and info.
@@ -24,7 +26,7 @@ We are:
 
 ## Meetings
 
-Wee meet the Second and Fourth Thursday of each month at 7pm at Strikes
+We meet the Second and Fourth Thursday of each month at 7pm at Strikes
 Unlimited in Rocklin, CA. Find us in the banquet room on the left side of
 Halftime Bar & Grill.
 
