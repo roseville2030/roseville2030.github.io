@@ -2,6 +2,14 @@
 > See
 > [rose-2030.org](https://rose-2030.org) for our current website and info.
 
+# Upcoming Events
+
+## 23rd Annual Active 20-30 Crab & Shrimp Feed
+
+March 3, 2018 @ McBean Pavilion, Lincoln, CA.
+Doors open, drinks served at 6pm, dinner at 7pm.
+[Get tickets here!]](https://crabfeed2018.brownpapertickets.com)
+
 # About Us
 
 The Active 20-30 Club combines social events for local young professionals with
