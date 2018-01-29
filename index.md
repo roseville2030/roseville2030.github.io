@@ -144,7 +144,7 @@ activities.
 
 ## General Email
 
-info@rose-2030.org
+[info@rose-2030.org](mailto:info@rose-2030.org)
 
 ## Mailing Address
 
