@@ -33,6 +33,38 @@ attend a meeting. Guests are always welcomed with a free beverage of their
 choice. If you have additional questions and are unable to attend a meeting,
 contact us using the links below.
 
+# Contact Us
+
+## Current Officers
+
+* President: Cyn Martinez
+* Vice President: Kevin Worth
+* Board Members: Jason Walley, Evan Walker, Joseph Youngblood
+
+## General Email
+
+[info@rose-2030.org](mailto:info@rose-2030.org)
+
+## Mailing Address
+
+Active 20-30 Club #36
+PO Box 111
+Roseville, CA  95678
+
+## Voice Mailbox
+
+916-572-2030
+
+## Facebook
+
+http://www.facebook.com/roseville2030
+
+## Tax Info
+
+A 501(c)(3) Charitable Organization
+
+Tax ID 20-3909989
+
 # History
 
 The Active 20-30 Club has its beginnings in 1922 when young men in two separate
@@ -135,35 +167,3 @@ one of the charity's events.
 **Member Fun**: We like to have fun! We try to get together from socializing
 with each other these activities include BBQs, movies, and many other community
 activities.
-
-# Contact Us
-
-## Current Officers
-
-* President: Cyn Martinez
-* Vice President: Kevin Worth
-* Board Members: Jason Walley, Evan Walker, Joseph Youngblood
-
-## General Email
-
-[info@rose-2030.org](mailto:info@rose-2030.org)
-
-## Mailing Address
-
-Active 20-30 Club #36
-PO Box 111
-Roseville, CA  95678
-
-## Voice Mailbox
-
-916-572-2030
-
-## Facebook
-
-http://www.facebook.com/roseville2030
-
-## Tax Info
-
-A 501(c)(3) Charitable Organization
-
-Tax ID 20-3909989
