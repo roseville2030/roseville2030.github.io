@@ -18,7 +18,7 @@ philanthropic efforts that benefit children locally and national through a
 number of organizations and initiatives.
 
 With the support of individuals and businesses in the community, we are able to
-make it a better place for children to grow – today and tomorrow!
+make it a better place for children to grow– today and tomorrow!
 
 We are:
 
@@ -32,8 +32,9 @@ We are:
 
 # Meetings
 
-We meet the **Second and Fourth Thursday of each month at 7pm** at [Strikes
-Unlimited in Rocklin, CA](https://www.google.com/maps/place/5681+Lonetree+Blvd,+Rocklin,+CA+95765/).
+We meet the **Second and Fourth Thursday of each month at 7pm at [Strikes
+Unlimited in Rocklin,
+CA](https://www.google.com/maps/place/5681+Lonetree+Blvd,+Rocklin,+CA+95765/)**.
 Find us in the banquet room on the left side of Halftime Bar & Grill.
 
 If you are interested in joining the club, the best way to get started is to
@@ -45,10 +46,8 @@ contact us using the links below.
 
 ## Officers
 
-July 2017 - June 2018 term
-
-| Position | Name(s) |
-| -------- | ------- |
+| July 2017 - June 2018 term |   |
+| -------------------------- | - |
 | President | Cyn Martinez |
 | Vice President | Kevin Worth |
 | Board Members | Jason Walley, Evan Walker, Joseph Youngblood |
@@ -59,9 +58,11 @@ July 2017 - June 2018 term
 
 ## Mailing Address
 
-    Active 20-30 Club #36
-    PO Box 111
-    Roseville, CA  95678
+Active 20-30 Club #36
+
+PO Box 111
+
+Roseville, CA 95678
 
 ## Voice Mailbox
 
@@ -75,9 +76,7 @@ July 2017 - June 2018 term
 
 Active 20-30 Club #36 is a 501(c)(3) Charitable Organization, meaning your
 generous donation(s) to the club may be tax-deductible (see your financial
-advisor).
-
-**Tax ID 20-3909989**
+advisor). **Tax ID 20-3909989**
 
 # More info
 
