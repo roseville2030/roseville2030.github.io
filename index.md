@@ -1,11 +1,7 @@
----
-title: Active 20-30 Club of Roseville / South Placer #36
----
-
 > Sneak peek! This page is currently under development. See
 > [rose-2030.org](https://rose-2030.org) for our current website and info.
 
-## About Us
+# About Us
 
 The Active 20-30 Club combines social events for local young professionals with
 philanthropic efforts that benefit children locally and national through a
@@ -24,7 +20,7 @@ We are:
 * Making new friends with quality people
 * Networking our businesses
 
-## Meetings
+# Meetings
 
 We meet the Second and Fourth Thursday of each month at 7pm at Strikes
 Unlimited in Rocklin, CA. Find us in the banquet room on the left side of
@@ -35,7 +31,7 @@ attend a meeting. Guests are always welcomed with a free beverage of their
 choice. If you have additional questions and are unable to attend a meeting,
 contact us using the links below.
 
-## History
+# History
 
 The Active 20-30 Club has its beginnings in 1922 when young men in two separate
 communities in the US saw the need for a service club for young men. They found
@@ -51,22 +47,22 @@ on an equal basis with clubs comprised of older men.
 These pioneers of youth-led service clubs simultaneously created two identical
 clubs which later merged to form Active 20-30 International.
 
-## International Affiliations
+# International Affiliations
 
 Active 20-30 USA & Canada is a member of Active 20-30 International and the
 World Council of Service Clubs (WOCO). These organizations enable us to reach
 children in Europe, Africa, India, North and South America.
 
-## Growing Strong
+# Growing Strong
 
 The Active 20-30 Club has grown from its inception in 1922 to include more than
 100 clubs in both hemispheres. As a member of WOCO, Active 20-30 members
 participate in international charitable events and share the belief that
 children are the future across the globe.
 
-## Traditions
+# Traditions
 
-### Bell, Banner & Gavel
+## Bell, Banner & Gavel
 
 Every club in Active 20-30 is issued a "club banner," a brass bell, and a
 president's gavel. These are standard items that each club must maintain as an
@@ -79,18 +75,18 @@ banner belongs to the club. The bell and gavel belong to the current President.
 Protect the banner at all costs!! The bell and gavel can be stolen only during
 the time it has been rung in until it has been rung out.
 
-### Songs & Pledges
+## Songs & Pledges
 
 Many of the clubs begin each club meeting with a song or the Pledge of
 Allegiance and may end each meeting with a song as well.
 
-### Badges
+## Badges
 
 When a person becomes a member of a club, they are issued an official name badge
 with their name and club name engraved. In many clubs, it is a requirement that
 each member wear their badge during the meeting.
 
-### Pennies-A-Day
+## Pennies-A-Day
 
 Every meeting you will see a container passed around with money in it. This is
 our Pennies-A-Day container. One club member is designated the “Can Carrier” and
@@ -98,14 +94,14 @@ he or she is responsible for container. The least you can do for a child is to
 donate one penny a day. The money collected will be presented to the Convention
 Host Club to be donated back to their community.
 
-### Fines
+## Fines
 
 At most meetings we fine our Members for anything from not wearing your pin and
 badge to getting up in the middle of the meeting to wearing a green shirt. All
 fines are meant in fun. All fine money is used to purchase a beverage for
 prospective members' first visits.
 
-## Benefits Of Membership
+# Benefits Of Membership
 
 * Help local disadvantaged children. In tough economic times, our help has
   never been needed more.
@@ -119,12 +115,12 @@ prospective members' first visits.
   meetings and conventions you can attend throughout the U.S., Canada, Latin
   America, and the world.
 
-## Financial Obligations
+# Financial Obligations
 
 All members are required to pay dues. Member dues are $10.00 per month; but will
 be collected every six months; in January and July.
 
-## Events
+# Events
 
 **Fundraisers**: Throughout the year we hold various fundraisers to help raise
 money to use towards activities with local children’s charities; so far, the
@@ -138,33 +134,33 @@ one of the charity's events.
 with each other these activities include BBQs, movies, and many other community
 activities.
 
-## Contact Us
+# Contact Us
 
-### Current Officers
+## Current Officers
 
 * President: Cyn Martinez
 * Vice President: Kevin Worth
 * Board Members: Jason Walley, Evan Walker, Joseph Youngblood
 
-### General Email
+## General Email
 
 info@rose-2030.org
 
-### Mailing Address
+## Mailing Address
 
 Active 20-30 Club #36
 PO Box 111
 Roseville, CA  95678
 
-### Voice Mailbox
+## Voice Mailbox
 
 916-572-2030
 
-### Facebook
+## Facebook
 
 http://www.facebook.com/roseville2030
 
-### Tax Info
+## Tax Info
 
 A 501(c)(3) Charitable Organization
 
