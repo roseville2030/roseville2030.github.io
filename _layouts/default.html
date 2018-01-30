@@ -24,21 +24,16 @@
       <div id="banner">
         <span id="logo"></span>
 
-        <!-- Remove github project button
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
-        -->
-
         <!-- Left-aligned button, remove comments/edit as needed
-        <a href="https://rose-2030.org" class="button"><strong>Example</strong></a>
+        <a href="http://rose-2030.org" class="button"><strong>Home</strong></a>
         -->
 
-        <!-- We don't have source, but the buttons are handy sometimes -->
+        <!-- We don't have downloads, but the buttons are handy sometimes -->
         {% if site.show_downloads %}
           <div class="downloads">
-            <span>Quick Links</span>
-            <!-- Right-aligned buttons -->
+            <span><!--Text label for right-aligned buttons can go here--></span>
             <ul>
-              <!-- Add buttons here one at a time! -->
+              <!-- Add right-aligned buttons here one at a time! -->
               <li><a href="https://crabfeed2018.brownpapertickets.com/" class="button">Crab Feed 2018 Tickets</a></li>
             </ul>
           </div>
@@ -54,12 +49,12 @@
 
       </section>
       <footer>
-        <!-- Add club logo -->
+        <!-- Club logo -->
         <a href="http://www.active20-30.org/"><img src="{{ '/assets/images/2030-logo.png' | relative_url }}" alt="Club Logo" style="max-width:70%;"></a>
         {% if site.github.is_project_page %}
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small> Copyright Active 20-30 Club #36 &mdash; Hosted on <a href="https://github.com/roseville2030/">GitHub Pages</a> &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+        <p><small> Copyright Active 20-30 Club #36 &mdash; Hosted on <a href="{{ site.github.repository_url }}">GitHub Pages</a> &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
