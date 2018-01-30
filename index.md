@@ -7,6 +7,8 @@
 * Doors open, drinks served at 6pm, dinner at 7pm
 * [Get tickets here!](https://crabfeed2018.brownpapertickets.com)
 
+![Crab Feed 2018](https://crabfeed2018.brownpapertickets.com/g/e/1028523-250.gif)
+
 # About Us
 
 The Active 20-30 Club combines social events for local young professionals with

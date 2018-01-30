@@ -22,18 +22,24 @@
       </header>
 
       <div id="banner">
-        <!-- Remove github logo and button
         <span id="logo"></span>
 
+        <!-- Remove github project button
         <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
         -->
-        <a href="https://crabfeed2018.brownpapertickets.com/" class="button"><strong>Test Button</strong></a>
-        <!-- Take downloads to mean "buttons" since we don't have source -->
+
+        <!-- Left-aligned button, remove comments/edit as needed
+        <a href="https://rose-2030.org" class="button"><strong>Example</strong></a>
+        -->
+
+        <!-- We don't have source, but the buttons are handy sometimes -->
         {% if site.show_downloads %}
           <div class="downloads">
-            <span>Buttons:</span>
+            <span>Quick Links</span>
+            <!-- Right-aligned buttons -->
             <ul>
-              <li><a href="https://crabfeed2018.brownpapertickets.com/" class="button">Crab Feed 2018 Tickets!</a></li>
+              <!-- Add buttons here one at a time! -->
+              <li><a href="https://crabfeed2018.brownpapertickets.com/" class="button">Crab Feed 2018 Tickets</a></li>
             </ul>
           </div>
         {% endif %}
