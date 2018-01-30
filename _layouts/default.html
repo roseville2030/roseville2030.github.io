@@ -16,33 +16,37 @@
   </head>
   <body>
 
-      <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
+    <header>
+      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
+    </header>
 
-      <div id="banner">
-        <!-- logo span css has ocotocast-logo.png as background, so we override with a small club logo -->
-        <span id="logo"><img src="{{ '/assets/images/octocat-logo.png' | relative_url }}" alt="Small Club Logo" style="max-width:100%;"></span>
+    <div id="banner">
+      <!-- logo span css has ocotocast-logo.png as background, so we override with a small club logo -->
+      <span id="logo">
+        <a href="http://www.rose-2030.org/">
+          <img src="{{ '/assets/images/octocat-logo.png' | relative_url }}" alt="Small Club Logo" style="max-width:100%;">
+        </a>
+      </span>
 
-        <!-- Left-aligned button, remove comments/edit as needed
-        <a href="http://rose-2030.org" class="button"><strong>Home</strong></a>
-        -->
+      <!-- Left-aligned button, remove comments/edit as needed
+      <a href="http://rose-2030.org" class="button"><strong>Home</strong></a>
+      -->
 
-        <!-- Controlled by _config.yml -->
-        {% if site.show_buttons %}
-          <!-- Re-use downloads CSS class for right-align -->
-          <div class="downloads">
-            <span>
-              <!-- Text label for right-aligned buttons can go here-- >
-            </span>
-            <!-- Buttons are defined in _data/buttons.yml -->
-            {% for button in site.data.buttons %}
-              <a href="{{ button.url }}" class="button">{{ button.name }}</a>
-            {% endfor %}
-          </div>
-        {% endif %}
-      </div><!-- end banner -->
+      <!-- Controlled by _config.yml -->
+      {% if site.show_buttons %}
+        <!-- Re-use downloads CSS class for right-align -->
+        <div class="downloads">
+          <span>
+            <!-- Text label for right-aligned buttons can go here-- >
+          </span>
+          <!-- Buttons are defined in _data/buttons.yml -->
+          {% for button in site.data.buttons %}
+            <a href="{{ button.url }}" class="button">{{ button.name }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div><!-- end banner -->
 
     <div class="wrapper">
       <nav>
@@ -54,11 +58,17 @@
       </section>
       <footer>
         <!-- Club logo -->
-        <a href="http://www.active20-30.org/"><img src="{{ '/assets/images/2030-logo.png' | relative_url }}" alt="Club Logo" style="max-width:70%;"></a>
+        <a href="http://www.rose-2030.org/">
+          <img src="{{ '/assets/images/2030-logo.png' | relative_url }}" alt="Club Logo" style="max-width:70%;">
+        </a>
         {% if site.github.is_project_page %}
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small> Copyright Active 20-30 Club #36 &mdash; Hosted on <a href="{{ site.github.repository_url }}">GitHub Pages</a> &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+        <p>
+          <small>
+            Copyright Active 20-30 Club #36 &mdash; Hosted on <a href="{{ site.github.repository_url }}">GitHub Pages</a> &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a>
+          </small>
+        </p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
