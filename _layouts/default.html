@@ -22,29 +22,24 @@
       </header>
 
       <div id="banner">
+        <!-- logo span css has ocotocast-logo.png as background, so we override with a small club logo -->
         <span id="logo"><img src="{{ '/assets/images/octocat-logo.png' | relative_url }}" alt="Small Club Logo" style="max-width:100%;"></span>
 
         <!-- Left-aligned button, remove comments/edit as needed
         <a href="http://rose-2030.org" class="button"><strong>Home</strong></a>
         -->
 
+        <!-- Controlled by _config.yml -->
         {% if site.show_buttons %}
-          <!-- We don't have downloads, but the buttons are handy sometimes -->
+          <!-- Re-use downloads CSS class for right-align -->
           <div class="downloads">
             <span>
-                <!-- Text label for right-aligned buttons can go here-- >
+              <!-- Text label for right-aligned buttons can go here-- >
             </span>
-            <!-- <ul> -->
-              <!-- Buttons are defined in _data/buttons.yml -->
-              {% for button in site.data.buttons %}
-                <!-- <li> -->
-                  <a href="{{ button.url }}" class="button">{{ button.name }}</a>
-                <!-- </li> -->
-              {% endfor %}
-              <!-- <li> -->
-                <!-- <a href="https://crabfeed2018.brownpapertickets.com/" class="button">Crab Feed 2018 Tickets</a> -->
-              <!-- </li> -->
-            <!-- </ul> -->
+            <!-- Buttons are defined in _data/buttons.yml -->
+            {% for button in site.data.buttons %}
+              <a href="{{ button.url }}" class="button">{{ button.name }}</a>
+            {% endfor %}
           </div>
         {% endif %}
       </div><!-- end banner -->
