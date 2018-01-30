@@ -7,5 +7,5 @@
 - name: National
   url: http://active20-30.org
 
-- name: Members Only
-  url: https://members.rose-2030.org
+- name: Member Login
+  url: http://members.rose-2030.org
