@@ -30,18 +30,22 @@
 
         {% if site.show_buttons %}
           <!-- We don't have downloads, but the buttons are handy sometimes -->
-          <!-- <div class="downloads"> -->
+          <div class="downloads">
             <span>
                 <!-- Text label for right-aligned buttons can go here-- >
             </span>
-            <ul>
+            <!-- <ul> -->
               <!-- Buttons are defined in _data/buttons.yml -->
               {% for button in site.data.buttons %}
-                <li><a href="{{ button.url }}" class="button">{{ button.name }}</a></li>
+                <!-- <li> -->
+                  <a href="{{ button.url }}" class="button">{{ button.name }}</a>
+                <!-- </li> -->
               {% endfor %}
-              <li><a href="https://crabfeed2018.brownpapertickets.com/" class="button">Crab Feed 2018 Tickets</a></li>
-            </ul>
-          <!-- </div> -->
+              <!-- <li> -->
+                <!-- <a href="https://crabfeed2018.brownpapertickets.com/" class="button">Crab Feed 2018 Tickets</a> -->
+              <!-- </li> -->
+            <!-- </ul> -->
+          </div>
         {% endif %}
       </div><!-- end banner -->
 
