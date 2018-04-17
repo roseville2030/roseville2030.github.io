@@ -1,14 +1,3 @@
-# Coming Up
-
-![Crab Feed 2018](https://crabfeed2018.brownpapertickets.com/g/e/1028523-250.gif)
-
-**The 23rd Annual Active 20-30 Crab & Shrimp Feed**
-
-* March 3, 2018
-* McBean Pavilion, Lincoln, CA
-* Doors open, drinks served at 6pm, dinner at 7pm
-* [Get tickets here!](https://crabfeed2018.brownpapertickets.com)
-
 # About Us
 
 The Active 20-30 Club combines social events for local young professionals with
