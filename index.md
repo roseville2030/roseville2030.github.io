@@ -19,10 +19,12 @@ We are:
 
 # Meetings
 
-We meet the **Second and Fourth Thursday of each month at 7pm at [Strikes
+We typically meet the **Second and Fourth Thursday of each month at 7pm at [Strikes
 Unlimited in Rocklin,
 CA](https://www.google.com/maps/place/5681+Lonetree+Blvd,+Rocklin,+CA+95765/)**.
 Find us in the banquet room on the left side of Halftime Bar & Grill.
+Sometimes (especially around Summer and the Winter holidays) we reschedule,
+so if you're coming to visit, call or email to let us know you're coming!
 
 If you are interested in joining the club, the best way to get started is to
 attend a meeting. Guests are always welcomed with a free beverage of their
@@ -35,11 +37,12 @@ How to get in touch with the club:
 
 ## Officers
 
-| July 2017 - June 2018 term |   |
+| July 2018 - June 2019 term |   |
 | -------------------------- | - |
 | President | Cyn Martinez |
 | Vice President | Kevin Worth |
-| Board Members | Jason Walley, Evan Walker, Joseph Youngblood |
+| Board Members | Evan Walker, Joseph Youngblood, Kelly Miller |
+| Sergeant-at-Arms | Rikki Foster
 
 ## General Email
 
