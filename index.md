@@ -41,8 +41,8 @@ How to get in touch with the club:
 | -------------------------- | - |
 | President | Kevin Worth |
 | Vice President | Kelly Miller |
-| Board Members | Cynthia Martinezm, Arthur Orozco, Evan Walker |
-| Sergeant-at-Arms | Jared |
+| Board Members | Cynthia Martinez, Arthur Orozco, Evan Walker |
+| Sergeant-at-Arms | Jared Gorton |
 
 ## General Email
 
