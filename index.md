@@ -19,6 +19,8 @@ We are:
 
 # Meetings
 
+**Note due to COVID19 we are currently meeting on our normal schedule, but via Zoom. Please contact us via email or Facebook message and we will gladly send you a link to the next meeting!***
+
 We typically meet the **Second and Fourth Thursday of each month at 7pm at [Strikes
 Unlimited in Rocklin,
 CA](https://www.google.com/maps/place/5681+Lonetree+Blvd,+Rocklin,+CA+95765/)**.
@@ -53,10 +55,6 @@ How to get in touch with the club:
 Active 20-30 Club #36  
 PO Box 111  
 Roseville, CA 95678
-
-## Voice Mailbox
-
-916-572-2030
 
 ## Facebook
 
