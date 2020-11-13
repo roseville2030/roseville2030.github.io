@@ -39,12 +39,13 @@ How to get in touch with the club:
 
 ## Officers
 
-| July 2019 - June 2020 term |   |
+| July 2020 - June 2021 term |   |
 | -------------------------- | - |
 | President | Kevin Worth |
-| Vice President | Kelly Miller |
-| Board Members | Cynthia Martinez, Arthur Orozco, Evan Walker |
-| Sergeant-at-Arms | Jared Gorton |
+| Vice President | Evan Walker |
+| 2nd Vice President | Kelly Foster |
+| Board Members | Cynthia Martinez, Jared Gorton, Mayra Barocio |
+| Sergeant-at-Arms | Rikki Foster |
 
 ## General Email
 
