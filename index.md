@@ -19,14 +19,9 @@ We are:
 
 # Meetings
 
-**Note due to COVID19 we are currently meeting on our normal schedule, but via Zoom. Please contact us via email or Facebook message and we will gladly send you a link to the next meeting!***
+**Note due to COVID19 we are currently meeting on our normal schedule, but sometimes via Zoom. Please contact us via email or Facebook message and we will gladly send you info about our next meeting!***
 
-We typically meet the **Second and Fourth Thursday of each month at 7pm at [Strikes
-Unlimited in Rocklin,
-CA](https://www.google.com/maps/place/5681+Lonetree+Blvd,+Rocklin,+CA+95765/)**.
-Find us in the banquet room on the left side of Halftime Bar & Grill.
-Sometimes (especially around Summer and the Winter holidays) we reschedule,
-so if you're coming to visit, call or email to let us know you're coming!
+We meet the **Second and Fourth Thursday of each month at 7pm**.
 
 If you are interested in joining the club, the best way to get started is to
 attend a meeting. Guests are always welcomed with a free beverage of their
@@ -39,13 +34,13 @@ How to get in touch with the club:
 
 ## Officers
 
-| July 2020 - June 2021 term |   |
+| July 2021 - June 2022 term |   |
 | -------------------------- | - |
 | President | Kevin Worth |
 | Vice President | Evan Walker |
 | 2nd Vice President | Kelly Foster |
-| Board Members | Cynthia Martinez, Jared Gorton, Mayra Barocio |
-| Sergeant-at-Arms | Rikki Foster |
+| Board Members | Rikki Foster, Mayra Barocio |
+| Sergeant-at-Arms | Jared Gorton |
 
 ## General Email
 
