@@ -19,7 +19,7 @@ We are:
 
 # Meetings
 
-**Note due to COVID19 we are currently meeting on our normal schedule, but sometimes via Zoom. Please contact us via email or Facebook message and we will gladly send you info about our next meeting!***
+**Note due to COVID19 we are currently meeting on our normal schedule, but sometimes via Zoom. Please contact us via email or Facebook message and we will gladly send you info about our next meeting!**
 
 We meet the **Second and Fourth Thursday of each month at 7pm**.
 
