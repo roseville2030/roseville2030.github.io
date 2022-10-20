@@ -36,7 +36,7 @@ How to get in touch with the club:
 
 | July 2022 - June 2023 term |   |
 | -------------------------- | - |
-| President | Kevin Worth |
+| President | Jared Gorton |
 | Vice President | Evan Walker |
 | 2nd Vice President | Kelly Foster |
 | Board Members | Kevin Worth, Mayra Barocio |
