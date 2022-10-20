@@ -19,7 +19,7 @@ We are:
 
 # Meetings
 
-**Note due to COVID19 we are currently meeting on our normal schedule, but sometimes via Zoom. Please contact us via email or Facebook message and we will gladly send you info about our next meeting!**
+**Most weeks we meet at Old Town Pizza in Roseville, but this can be subject to change. Please contact us via email or Facebook message and we will gladly confirm the location of our next meeting!**
 
 We meet the **Second and Fourth Thursday of each month at 7pm**.
 
@@ -34,13 +34,13 @@ How to get in touch with the club:
 
 ## Officers
 
-| July 2021 - June 2022 term |   |
+| July 2022 - June 2023 term |   |
 | -------------------------- | - |
 | President | Kevin Worth |
 | Vice President | Evan Walker |
 | 2nd Vice President | Kelly Foster |
-| Board Members | Rikki Foster, Mayra Barocio |
-| Sergeant-at-Arms | Jared Gorton |
+| Board Members | Kevin Worth, Mayra Barocio |
+| Sergeant-at-Arms | Greg Neale |
 
 ## General Email
 
