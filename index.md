@@ -39,7 +39,7 @@ How to get in touch with the club:
 | President | Evan Walker |
 | Vice President | Jared Gorton |
 | 2nd Vice President | Kelly Foster |
-| Board Members | Kevin Worth, Mayra Barocio |
+| Board Members | Mayra Barocio, Cynthia Martinez-Walley, Kevin Worth |
 | Sergeant-at-Arms | Greg Neale |
 
 ## General Email
