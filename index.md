@@ -21,7 +21,7 @@ We are:
 
 **Most weeks we meet at Old Town Pizza in Roseville, but this can be subject to change. Please contact us via email or Facebook message and we will gladly confirm the location of our next meeting!**
 
-We meet the **Second and Fourth Thursday of each month at 7pm**.
+We meet the **Second and Fourth Wednesday of each month at 7pm**.
 
 If you are interested in joining the club, the best way to get started is to
 attend a meeting. Guests are always welcomed with a free beverage of their
@@ -34,10 +34,10 @@ How to get in touch with the club:
 
 ## Officers
 
-| July 2022 - June 2023 term |   |
+| July 2023 - June 2024 term |   |
 | -------------------------- | - |
-| President | Jared Gorton |
-| Vice President | Evan Walker |
+| President | Evan Walker |
+| Vice President | Jared Gorton |
 | 2nd Vice President | Kelly Foster |
 | Board Members | Kevin Worth, Mayra Barocio |
 | Sergeant-at-Arms | Greg Neale |
