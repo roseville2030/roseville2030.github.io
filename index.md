@@ -2,7 +2,7 @@
 
 Registration for The 27th Annual Active 20-30 Club Crab & Shrimp Feed is now open!
 
-Visit https://cf2024.bpt.me/ for tickets!
+Visit [cf2024.bpt.me](https://cf2024.bpt.me/) for tickets!
 
 # About Us
 
