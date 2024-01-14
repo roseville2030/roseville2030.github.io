@@ -2,9 +2,9 @@
 
 Registration for The 27th Annual Active 20-30 Club Crab & Shrimp Feed is now open!
 
-Mar 16, 2024
-McBean Pavilion, Lincoln, CA
-Doors open 6:00pm, dinner served 7pm
+* Mar 16, 2024
+* McBean Pavilion, Lincoln, CA
+* Doors open 6:00pm, dinner served 7pm
 
 **Visit [cf2024.bpt.me](https://cf2024.bpt.me/) for tickets!**
 
