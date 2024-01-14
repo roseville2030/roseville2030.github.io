@@ -28,17 +28,17 @@ Make sure you've checked in and you've found a seat before dinner is served at 7
 
 ## Sponsorship levels
 
-Pot of Gold - $2500
+### Pot of Gold - $2500
 * 8 Event Tickets
 * 8 Jello Shots
-* 1 Bottle of wine
+* 2 Bottles of wine
 * 20 Raffle Tickets
 * Signage Throughout event
 * Logo on Placemat
 * Logo on website and social media
-* Thank you at event
+* Thank-you at event
 
-Four Leaf Clover - $1500
+### Four Leaf Clover - $1500
 * 6 Event tickets
 * 6 Jello Shots
 * 1 Bottle of wine
@@ -46,21 +46,20 @@ Four Leaf Clover - $1500
 * Signage throughout event
 * Logo on Placemat
 * Logo on website and social media
-* Thank you at event
+* Thank-you at event
 
-Leprechaun - $500
+### Leprechaun - $500
 * 2 Event Tickets
 * 2 Drink Tickets
 * 5 Raffle Tickets
 * Logo on Placemat
 * Logo on website and social media
-* Thank you at event
+* Thank-you at event
 
-Lucky Charm - $100
+### Lucky Charm - $100
 * Logo on Placemat
 * Logo on website and social media
-* Thank you at event
-
+* Thank-you at event
 
 # About Us
 
