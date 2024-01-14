@@ -53,10 +53,7 @@
         <ul></ul>
       </nav>
       <section>
-        {{ content }}
 
-      </section>
-      <footer>
         <!-- Club logo -->
         <a href="http://www.rose-2030.org/">
           <img src="{{ '/assets/images/2030-logo.png' | relative_url }}" alt="Club Logo" style="max-width:70%;">
@@ -69,6 +66,12 @@
             Copyright Active 20-30 Club #36 &mdash; Hosted on <a href="{{ site.github.repository_url }}">GitHub Pages</a> &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a>
           </small>
         </p>
+        
+        {{ content }}
+
+      </section>
+      <footer>
+        <!-- empty for now -->
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
