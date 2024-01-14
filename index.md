@@ -50,7 +50,7 @@ Make sure you've checked in and you've found a seat before dinner is served at 7
 
 ### Leprechaun - $500
 * 2 Event Tickets
-* 2 Drink Tickets
+* 2 Drinks of your choice
 * 5 Raffle Tickets
 * Logo on Placemat
 * Logo on website and social media
