@@ -1,14 +1,14 @@
-# Crab Feed 2024
+# Crab Feed 2025
 
-Registration for The 27th Annual Active 20-30 Club Crab & Shrimp Feed is now open!
+Registration for The 28th Annual Active 20-30 Club Crab & Shrimp Feed is now open!
 
-* Mar 16, 2024
+* April 4, 2025
 * McBean Pavilion, Lincoln, CA
 * Doors open 6:00pm, dinner served 7pm
 
-**Visit [cf2024.bpt.me](https://cf2024.bpt.me/) for tickets!**
+**Visit [cf2025.bpt.me](https://www.brownpapertickets.com/event/6586861) for tickets!**
 
-## Your $75 event ticket includes
+## Your $90 event ticket includes
 
 * All-you-can-eat crab, shrimp, pasta, salad, and bread
 * Cash bar featuring refreshing beers and fine wines
