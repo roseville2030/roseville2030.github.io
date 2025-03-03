@@ -8,63 +8,6 @@ Registration for The 28th Annual Active 20-30 Club Crab & Shrimp Feed is now ope
 
 **Visit [cf2025.bpt.me](https://www.brownpapertickets.com/event/6586861) for tickets!**
 
-## Your $90 event ticket includes
-
-* All-you-can-eat crab, shrimp, pasta, salad, and bread
-* Cash bar featuring refreshing beers and fine wines
-* Raffle, silent auction, live dessert auction
-* After-dinner music and dancing
-* Admission at 6:00pm
-
-Make sure you've checked in and you've found a seat before dinner is served at 7pm!
-
-## Reminders
-
-* This event is ages 21 and over only. ID will be checked at the door.
-* No outside alcohol will be permitted.
-* No refunds
-
-## Proceeds from this event benefit our work with local children's organizations including
-
-* Lost But Not Forgotten
-* KidsFirst Roseville
-* Roseville Home Start
-
-## Sponsorship levels
-
-### Pot of Gold - $2500
-* 8 Event Tickets
-* 8 Jello Shots
-* 2 Bottles of wine
-* 20 Raffle Tickets
-* Signage Throughout event
-* Logo on Placemat
-* Logo on website and social media
-* Thank-you at event
-
-### Four Leaf Clover - $1500
-* 6 Event tickets
-* 6 Jello Shots
-* 1 Bottle of wine
-* 10 Raffle Tickets
-* Signage throughout event
-* Logo on Placemat
-* Logo on website and social media
-* Thank-you at event
-
-### Leprechaun - $500
-* 2 Event Tickets
-* 2 Drinks of your choice
-* 5 Raffle Tickets
-* Logo on Placemat
-* Logo on website and social media
-* Thank-you at event
-
-### Lucky Charm - $100
-* Logo on Placemat
-* Logo on website and social media
-* Thank-you at event
-
 # About Us
 
 The Active 20-30 Club combines social events for local young professionals with
