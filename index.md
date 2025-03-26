@@ -1,12 +1,12 @@
-# Crab Feed 2025
+# Crab Feed 2025 Update
 
-Registration for The 28th Annual Active 20-30 Club Crab & Shrimp Feed is now open!
+It is with sincere regret that we announce the cancellation of our upcoming Crab Feed, originally scheduled for April 4th, 2025. While this decision was not made lightly, but low ticket sales have made it necessary to cancel this year’s event.
 
-* April 4, 2025
-* McBean Pavilion, Lincoln, CA
-* Doors open 6:00pm, dinner served 7pm
+All purchased tickets will be refunded to the original payment method.
 
-**Visit [cf2025.bpt.me](https://www.brownpapertickets.com/event/6586861) for tickets!**
+We are truly grateful for your support and understanding. We look forward to future opportunities to come together for a great cause and create memorable experiences.
+
+Thank you again for your continued support!
 
 # About Us
 
